@@ -1,0 +1,138 @@
+nav ul{
+    position:relative;
+    left:1100px;
+    border-color: black;
+    display: block;
+}
+nav ul li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    margin: 7px;
+    font-size: 20px;
+    position: relative;
+    top:20px;
+    right:20px;
+}
+body{
+    background-image: url("background.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin:0px;
+    padding:0px;
+}
+h3{
+    color:white;
+    position: relative;
+    left:400px;
+    top:150px;
+}
+h1{
+    color:whitesmoke;
+    position: relative;
+    left:400px;
+    top:150px;
+}
+img{
+    position: relative;
+    left:890px;
+    width:600px;
+    height:520px;
+    border-radius: 10px;
+    top:-100px;
+}
+#title{
+    color:white;
+    font-size: 30px;
+    text-decoration: underline;
+    text-align: center;
+    position: relative;
+    top:30px;
+}
+#intro{
+    color:white;
+    font-size: 25px;
+}
+#div1{
+    height:520px;
+    width:800px;
+    position: relative;
+    top:50px;
+    left:380px;
+    text-align: center;
+}
+#num1{
+    color:white;
+    width:300px;
+    position: relative;
+    top:150px;
+    left:400px;
+}
+.button{
+    display: inline;
+    border-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    position:relative;
+    top:-350px;
+    right:200px;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: white;
+    
+}
+.hobbies{
+    text-align: center;
+    position: relative;
+    bottom:-110px;
+    left:30px;
+    color:white;
+    font-size: 30px;
+    text-decoration: underline;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+#box1{
+    border: 4px white solid;
+    width:250px;
+    height:300px;
+    position:relative;
+    left:150px;
+    bottom:-260px;
+    border-radius: 10px;
+}
+#one{
+    text-decoration: underline;
+    font-family: cursive;
+}
+#box2{
+    border: 4px white solid;
+    border-radius: 10px;
+    width:250px;
+    height:300px;
+    position: relative;
+    left:450px;
+    top:-50px;
+}
+
+#box4{
+    border: 4px white solid;
+    border-radius: 10px;
+    width:250px;
+    height:300px;
+    position: relative;
+    top:-670px;
+    left:1100px;
+}
+#box3{
+    border:4px white solid;
+    border-radius: 10px;
+    width:250px;
+    height:300px;
+    position: relative;
+    left:760px;
+    top:-360px
+}
